@@ -1,5 +1,5 @@
 {
-	"name": "powerquery1",
+	"name": "powerquery3",
 	"properties": {
 		"type": "WranglingDataFlow",
 		"typeProperties": {
@@ -8,7 +8,7 @@
 					"name": "DelimitedText1",
 					"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~> DelimitedText1",
 					"dataset": {
-						"referenceName": "DelimitedText1",
+						"referenceName": "DelimitedText2",
 						"type": "DatasetReference"
 					}
 				}
