@@ -1,0 +1,9 @@
+{
+	"name": "bamuse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e84ccd46-83f9-4d88-b4a0-66d1e6ba64c2",
+		"tenantId": "53072645-2a33-45c7-a3ce-dadf1b0c2faf"
+	}
+}
